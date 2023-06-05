@@ -3,5 +3,5 @@
 Скрины кода.
 ![Image alt](https://github.com/Nikitka5/js1/blob/main/Снимок%20экрана%202023-06-05%20123242.png)
 ![Image alt](https://github.com/Nikitka5/js1/blob/main/Снимок%20экрана%202023-06-05%20123315.png)
-Скрин ответа.
+# Скрин ответа.
 ![Image alt](https://github.com/Nikitka5/js1/blob/main/Снимок%20экрана%202023-06-05%20123359.png)
